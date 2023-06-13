@@ -38,7 +38,7 @@ This line will be modified to:
 Timestamp: 20230613-143200
 Path: /logs/freenode/programming/2003/01/01.txt
 Line Number: 2
-Original Line: 12 34 56 GitHubFAN23 Hello, world!
+Original Line: 123456 GitHubFAN23 Hello, world!
 ```
 
 ---
