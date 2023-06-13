@@ -111,7 +111,7 @@ Original Line: 123456 GitHubFAN23 Hello, world!
 
 #### Other
 - [driftwood](https://github.com/apple-fritter/driftwood): A unified IRC log format definition. (Rust)
-- [jetsam](https://github.com/apple-fritter/jetsam): Flag lines of driftwood formatted logs for moderation or further review. (Rust)
+- [jetsam](https://github.com/apple-fritter/jetsam): Flag lines of driftwood formatted IRC logs for sanitization, moderation, or further review. (Rust)
 - [scrimshaw](https://github.com/apple-fritter/scrimshaw): Create a quoteslist of any given user, from your driftwood formatted logs. (Rust)
 
 ---
