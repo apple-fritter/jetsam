@@ -1,6 +1,6 @@
 # Jetsam
 
-Jetsam is a tool designed to sanitize IRC logs stored in the [Driftwood](https://github.com/apple-fritter/driftwood) format. It helps identify and flag lines in the log files that contain potentially sensitive or inappropriate content for further review or moderation. Jetsam meant to pair closely with [flotsam](https://github.com/apple-fritter/flotsam), which aggregates a per-user metric of flagged contributions.
+Jetsam is a tool designed to sanitize IRC logs stored in the [Driftwood](https://github.com/apple-fritter/driftwood) format. It helps identify and flag lines in the log files that contain potentially sensitive or inappropriate content for further review or moderation. Jetsam is meant to pair closely with [flotsam](https://github.com/apple-fritter/flotsam), which aggregates a per-user metric of flagged contributions.
 
 ## Features
 
